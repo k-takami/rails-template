@@ -1,4 +1,4 @@
-Rails template
+Rails template(kadoppeさんのtemplateが　rails5, ruby2.5, lubuntu でつかえるかどうかの評価用フォーク)
 ==============
 
 My Rails 4 application template
@@ -13,7 +13,7 @@ $ brew install gibo
 
 ## Usage
 ```
-rails new appname -BT -m https://raw.githubusercontent.com/kadoppe/rails-template/master/template.rb
+rails new appname -BT -m https://raw.githubusercontent.com/k-takami/rails-template/master/template.rb
 ```
 
 ## Author
